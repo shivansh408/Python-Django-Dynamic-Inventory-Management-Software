@@ -1,0 +1,1 @@
+# Python-Django-Dynamic-Inventory-Management-Software
