@@ -2,12 +2,12 @@
 
 ## Premium version of the software contains Following Components -
 1. Dashboard
-2. Admin - Sub categories - > i) Company Management ii) Employees
+2. Admin - Sub categories - > i) Company Management   ii) Employees
 3. Products - (Add, Edit or delete Product)
 4. Orders - (Create new, View Invoice and, Export Order details)
 5. Customers - (Details, Export Report)
 6. Vendor Manager
-7. Expense Manager - Sub Categories -> i) Daily Expenses ii) Add New Expense iii) Expenses Report
+7. Expense Manager - Sub Categories -> i) Daily Expenses  ii) Add New Expense   iii) Expenses Report
 8. Bills and Report Manager
 
 ## This is a Free version of the software and consists Following Components -
