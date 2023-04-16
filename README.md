@@ -23,5 +23,18 @@
 4. Export Product Catalogue 
 
 <img width="939" alt="inv4" src="https://user-images.githubusercontent.com/76674380/232273377-ea8ba8c1-34cc-4383-9af3-dae9f76beae2.png">
+
+## Orders Table
+1. Orders Details
+2. Add New Order page link
+3. Invoice of Specific Order
+
 <img width="944" alt="inv3" src="https://user-images.githubusercontent.com/76674380/232273381-b5c78e0f-ac14-45b8-b1cc-3c0ff701c907.png">
+
+## Adding New Order
+1. Fill Orders Details
+2. Validations and Dynamic
+3. Autofill Details from database
+4. Auto Calculation and Smooth Operation
+
 <img width="941" alt="inv2" src="https://user-images.githubusercontent.com/76674380/232273384-ac60a656-9660-48b4-beb3-4295b3be433a.png">
