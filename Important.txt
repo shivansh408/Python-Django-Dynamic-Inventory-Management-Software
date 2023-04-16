@@ -1,0 +1,10 @@
+Unzip and locate the folder to your destination.
+** This is a web version not a desktop software
+** If you want Desktop software Contact and Purchase the Premium version
+
+Note-> If you want to open the project with Pycharm: Start the project, Create the environment (venv)
+and then create manage.py file to run the project.
+
+Do not disclose or use any personal information left on the project by mistake.
+
+It will be a violation of Ones Personal Privacy rights. 
